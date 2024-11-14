@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(20, 20, 197);
+    font-size: 25px;
+}
+
+p {
+    color: violet;
+    font-family: Arial;
+}
+
+img {
+    width: 100%;
+    max-width: 720px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: sans-serif;
+}
